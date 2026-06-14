@@ -1,2 +1,3 @@
 # Credit_card_financial_dashboard
 Powerbi Dashboard 
+Developed an interactive Credit Card Analysis Dashboard using Power BI to analyze customer spending patterns, transaction trends, revenue generation, and customer demographics. Performed data cleaning and transformation to ensure accurate reporting and created dynamic visualizations, KPIs, charts, and filters for better decision-making. The dashboard provided insights into customer behavior, card usage, transaction categories, and overall business performance, helping stakeholders identify trends and improve strategic planning. Utilized Power Query, DAX, data modeling, and visualization techniques to build a user-friendly and insightful dashboard.
